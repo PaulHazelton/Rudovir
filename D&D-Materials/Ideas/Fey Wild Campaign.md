@@ -1,0 +1,1 @@
+A campaign that has the players start in the fey wild, but they don't know it. Eventually they stumble in to the mortal realm which is suddenly a lot more gritty.

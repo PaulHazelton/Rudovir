@@ -1,0 +1,33 @@
+[[Session 2]] Recap, the door beckons you.
+# Encounters
+
+- Entering The Dungeon
+	- Approach [[Hell Well Dungeon]] Door
+		- After reading [[Hell Well Dungeon#Door Description|the inscription]], the door opens
+	- Party Enters
+		- Door slams shut behind them, plunging them into darkness.
+		- Mardnab and Tori have Darkvision
+- Perils of The Dungeon
+	- Floor 1 (600 XP)
+		- [[Trial of Darkness]]
+	- [[The Dark Staircase]]
+	- [[Trial Of Flesh]] (600 XP)
+		- 3 Crocs, + 1 extra waiting
+	- Waterslide Down
+	- [[Ghost of Regan]]
+	- [[The Bedlam Beldam Boss Fight]] (1,100 XP)
+		- Just 1 [[Shadow Demon]]
+		- Drops key to Well Room
+		- Do it buy the book. Trust in radiant weapons and heals to help them.
+- Bottom of The Dungeon
+	- Well Room
+		- [[The Wishing Well]]
+		- Unlocked Door
+	- Holding Cell Room
+		- Tied Up Children, Blindfolded.
+			- Charley Piebaker
+			- Penelope  Piebaker
+			- Lucy Smith
+			- Isaac Faust
+		- Portal Door to [[The Tumtil Paper Mill]]
+- End the session on Isaac Reveal

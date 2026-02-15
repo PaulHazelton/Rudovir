@@ -1,0 +1,10 @@
+- Spent the night at Sybil's house.
+	- Isaac revealed a shadowy sooty map to the cave
+- Went into Bedlam Forest to fight the Bedlam Beldam
+- Encountered 3 bridge trolls that asked you riddles
+- A bush asked you for help slaying a beast
+	- You killed the bear and saved Russel by replanting him!
+	- You each have a red berry and a green berry as a reward
+- Eventually the map led you to an abandoned church of Lumira, where you defeated some shadowy people and smokey bird things after burning down the roof.
+- You found an armory with some radiant weapons and potions and beds.
+- Just before taking a long rest, you heard an evil voice in your mind that advising a good nights rest.

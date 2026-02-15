@@ -1,0 +1,1 @@
+A cleric who loves [[The Pantheon#Palovo the God of Peace|Palovo]] and travelled to [[The Bog]] to proselytize. They successfully converted [[Mardnab]].

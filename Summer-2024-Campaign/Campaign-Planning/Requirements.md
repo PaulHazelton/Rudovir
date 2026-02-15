@@ -1,0 +1,47 @@
+# Activities I Want to Include
+- Exploration and Discovery
+- Investigation
+	- Who is kidnapping the children?
+		- Who are the children? Who are their parents? Reward for saving?
+	- Who is behind all this?
+- Combat
+	- Fight the big bad
+	- Basic goblin type encounter\
+	- Should be at least one combat encounter per session
+- Fun Items / Abilities (Rewards)
+	- At the bottom of session 3 dungeon, there will be information reward as well as tangible rewards.
+- Problem Solving
+	- Gotta have some riddles
+	- Perhaps some nice dungeon puzzles
+- Storytelling
+# Session Structure
+
+- **Session 1**
+	- Character and World Introductions
+	- Plot hook
+	- Start of investigation
+	- Basic combat encounter fairly early on
+	- Short rest
+	- Exposition about world and some basic storytelling aspects
+	- End with something harrowing / enticing that makes everyone want to return
+- **Session 2**
+	- Standard combat encounter
+	- Continue investigation
+	- Optional exploration?
+		- Try to do some environmental storytelling
+	- Optional minigame?
+	- Collect cool items / rewards
+		- Story reason for leveling up
+- **Session 3**
+	- Exploration of dungeon
+	- Handful of dungeon puzzles
+	- Handful of dungeon combat
+	- Allow full rest in dungeon?
+		- Maybe the bottom of the dungeon reveals where the BBEG resides or who the BBEG actually is, so they can leave and rest before the final session.
+- **Session 4**
+	- Party approaches BBEG's residence
+	- BBEG minion challenge
+	- BBEG monologue that reveals evil plan
+	- BBEG fight
+	- Return to beginning town as heroes
+	- Story conclusion

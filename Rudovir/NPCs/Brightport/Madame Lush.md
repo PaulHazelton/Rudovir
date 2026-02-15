@@ -1,0 +1,1 @@
+Brothel owner who hired [[Tori Flor|Tori]] as a bouncer. A mother figure to [[Tori Flor|Tori]]. The brother is in [[Brightport]]

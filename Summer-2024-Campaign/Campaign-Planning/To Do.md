@@ -1,0 +1,100 @@
+# Focus List
+
+- [x] Paper Mill guard / challenge
+- [x] After paper mill guard, environmental story tell about Sprinkles process
+	- [x] This should somehow reveal the Rumpelstiltskin anagram
+- [x] What is Sprinkles actually accusing Sybil of? Write it down in [[The Show Trial]].
+- [x] What evidence does he have, if any?
+- [x] Create proper trial encounter
+- [x] Create and balance Sprinkles boss fight.
+	- [x] Consider having Sybil help them
+	- [x] Lead players back to arena some how?
+- [ ] Come up with a nice conclusion.
+- [ ] Add monster stat blocks into Obsidian.
+# Focus List (Done)
+
+- [x] Double check math in dice game. Add up to 1?
+- [x] 3 [Shadows](https://www.dndbeyond.com/monsters/17010-shadow) guarding Sybil's house, she doesn't know about them.
+	- [x] She will come out and help.
+	- [x] The shadows dying signifies her doom.
+- [x] Make that item in the shop actually be on the goblins, so they get it for free
+- [x] [[Harry the Bush]] encounter
+	- [x] Bear and treasure
+		- [x] Bear has ripped off part of bush with stolen berries
+	- [x] Stolen berries should have 1 hour lasting negative effect.
+	- [x] [Awakened Shrub](https://www.dndbeyond.com/monsters/16791-awakened-shrub)
+- [x] Goblin encounter treasure
+- [x] Add something to [[Probably Purposeful]]
+- [x] Riddle Ogres encounter
+- [x] Gather some kind of sound board system.
+	- Make a sound board, include Obra Dinn music
+	- Michael Nymann - Time Lapse
+	- Tabletopaudio.com
+	- https://podcastsoundboard.com/
+	- https://github.com/janbrrr/dndj
+# Overview (High Level To Do List)
+
+- [x] Review Rudovir and see what I can salvage
+- [x] Write a Premise
+- [x] Decide Basic Worldbuilding
+- [x] Review PCs, Integrate into lore.
+	- [x] Ebony
+	- [x] Mardnab
+	- [x] Tori
+- [x] Create first session plan
+	- [x] Determine PCs motivation for starting the adventure.
+		- [x] Ebony
+		- [x] Mardnab
+		- [x] Tori
+- [x] Create basic 4 session outline
+- [x] Make big decisions
+	- [x] Goblins or nah?
+	- [x] Name [[Bedlam Forest]]
+	- [x] Name [[Hell Well Dungeon]]
+	- [x] What is [[The Bedlam Beldam|The Monster]]?
+- [x] Create NPCs and monsters (decide CR and monster types)
+	- [x] [[Dragonmouth Band Of Goblins]]
+	- [x] [[Goose]]
+	- [x] [[Sybil Faust|Sybil]]
+	- [x] [[Victim Families]]
+	- [x] [[Sprinkles Tumtil|Sprinkles]]
+- [x] Build the town and nearby relevant areas
+	- [x] [[Dragonmouth]]
+		- [x] Add a shop
+		- [x] Flesh out [[The Greedy Dragon]]
+			- [x] Add a gambling mini game?
+	- [x] [[Bedlam Forest]]
+		- [x] Add fun encounters
+		- [x] Add something dangerous between goblins and Sybil, or between town and goblins.
+- [x] Create and Balance Encounters
+	- [x] Try and teach some basic mechanics tutorial style.
+		- [x] Animal Handling?
+- [x] Print stuff
+	- [x] Blank Character Sheets
+- [x] Descriptions for things
+	- [x] [[The Silly Goose Tavern]] for [[Ebony Lyrathal|Ebony]]'s intro.
+	- [x] Sybil's encounter with the monster flashback.
+- [x] DM screen canvas
+- [x] Extras
+	- [x] Mind Goblin Joke.
+	- [x] Missing person flyers everywhere, printed on [[The Tumtil Paper Mill|Tumtil Paper]].\
+- [x] Add radiant damage item as treasure somewhere to fight shadow monsters
+	- [x] Maybe hide a radiant damage item in the dungeon, or in the forest
+- [x] More NPCs and monsters
+- [x] Stat block for [[The Bedlam Beldam|The Monster]]
+- [ ] Know your players, dog thing?
+# Story Problems to Solve
+
+- [x] Why was Sybil paying goblins to abduct children? I want her to be sympathetic.
+- [x] I have a specific sequence of events that I want to unfold over the course of 4 sessions.
+	- [x] Make sure Sprinkle is nearly immune to being discovered to early.
+- [x] There should be a satisfying revelation when the party figures out it's him at the end of session 3
+	- They will find the well at the bottom of a dungeon at the end of session 3.
+- [x] Need a motivator besides just "payment" for the party to solve the mystery and defeat the BBEG
+	- [x] Add some mourning parents in the town. [[Tori Flor|Tori]] is heavily motivated to defend abused children.
+- [x] Why does he need to abduct children?
+- [x] What is the phony explanation for the enormous amounts of straw shipments
+	- Sprinkle has a lucrative paper   business.
+- [x] Some *very light* foreshadowing on the truth
+	- Have some random NPC say "It's surprising how much straw goes into that mil."
+	- His name is an anagram of Rumpelstiltskin, maybe don't push it?

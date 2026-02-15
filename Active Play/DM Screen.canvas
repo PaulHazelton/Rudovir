@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"881f21339fac9521","type":"file","file":"D&D/D&D-Materials/Useful Stuff/Names.md","x":-1220,"y":-320,"width":300,"height":660},
+		{"id":"d9839dea4827cff1","type":"file","file":"D&D/D&D-Materials/Rules/DC Table.md","x":-1220,"y":390,"width":300,"height":320},
+		{"id":"0da1959927c18605","type":"file","file":"D&D/Summer-2024-Campaign/Campaign-Planning/Session 4 Planning.md","x":-900,"y":-320,"width":600,"height":760},
+		{"id":"3a1985d5b73e7091","type":"file","file":"D&D/Summer-2024-Campaign/Session-Outlines/Session 3 Outline.md","x":-900,"y":480,"width":600,"height":1030},
+		{"id":"c0e6775f8bb5d0ae","type":"file","file":"D&D/Rudovir/Spaces/Places/The Tumtil Paper Mill.md","x":-280,"y":-320,"width":440,"height":420,"color":"3"},
+		{"id":"5dea382ecf9eda80","type":"file","file":"D&D/Summer-2024-Campaign/Encounters/Paper Mill Portal Guard.md","x":180,"y":-320,"width":660,"height":1520,"color":"2"},
+		{"id":"a5f5d8a05420c944","type":"file","file":"D&D/Summer-2024-Campaign/Encounters/The Show Trial.md","x":860,"y":-320,"width":660,"height":1360,"color":"2"},
+		{"id":"0e43bc863f35ac95","type":"file","file":"D&D/Summer-2024-Campaign/Encounters/Sprinkles Boss Fight.md","x":1540,"y":-320,"width":680,"height":1680,"color":"2"},
+		{"id":"d12b57c7a801500f","type":"file","file":"D&D/D&D-Materials/Monsters/Knight.md","x":2240,"y":-320,"width":400,"height":1600,"color":"1"},
+		{"id":"2fdd7929203c7d86","type":"file","file":"D&D/D&D-Materials/Homebrew Items/Sprinkles Gnome Form.md","x":2660,"y":-320,"width":400,"height":1520,"color":"1"},
+		{"id":"642b4dec69f23123","type":"file","file":"D&D/D&D-Materials/Monsters/Smoke Mephit.md","x":3080,"y":-320,"width":400,"height":1320,"color":"1"},
+		{"id":"79b64d30390e78da","type":"file","file":"D&D/D&D-Materials/Monsters/Gold Dragon Wyrmling.md","x":3500,"y":-320,"width":400,"height":1640,"color":"1"},
+		{"id":"f49215eb41b90f4d","type":"file","file":"D&D/D&D-Materials/Monsters/Druid.md","x":3920,"y":-320,"width":400,"height":1320,"color":"5"}
+	],
+	"edges":[]
+}

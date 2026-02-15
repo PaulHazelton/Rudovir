@@ -1,0 +1,8 @@
+- **Offered berries (green):**
+	- +1 DEX mod and +1 STR mod for one hour after eating.
+- **Offered berries (red):**
+	- 1d4 + 1 HP
+- **Stolen berries:**
+	- (DC 20 CON save) or you violently throw up and miss your next turn if already in combat.
+	- -1 DEX mod and -1 STR mod for one hour after eating.
+	- Vomiting does not relieve the effects of the berry.

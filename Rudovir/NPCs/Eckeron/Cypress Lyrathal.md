@@ -1,0 +1,1 @@
+[[Ebony Lyrathal]]'s Father, an aspiring politician who is not above sacrificing his daughter’s happiness for the sake of the greater good. Arranged a marriage for his daughter Ebony, who fled in response.
